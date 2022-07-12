@@ -1,5 +1,5 @@
-# dvc-project-template
-DVC project template
+# dvc-project
+DVC project
 
 ## STEPS -
 
